@@ -25,6 +25,10 @@ No nosso projeto, dividimos essa faixa de valores em três categorias:
     2. 500ppm - 1000ppm : Risco detectado
     3. 1000ppm - 10.000ppm : Risco extremo
 
+## Link para a apresentação com mais detalhes
+
+https://www.canva.com/design/DAFmTEuSpZ8/7inuxljmSfm1nd7o2LXn9g/edit?utm_content=DAFmTEuSpZ8&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 # Licença
 
 Este projeto é licenciado sob a [MIT License](https://github.com/tech-espm/misc-template/blob/main/LICENSE).
